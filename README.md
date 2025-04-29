@@ -13,7 +13,7 @@
 - Open to contributing to beginner-friendly open source projects.
 
 ### 📫 Connect with me
-- 📧 Email: [qahsan86a@gmail.com](mailto:qahsan86a@gmail.com)  
+- 📧 Email: [qahsan861@gmail.com](mailto:qahsan861@gmail.com)  
 - 💼 Portfolio (Coming Soon)  
 - 🌐 GitHub: [github.com/ahsanq46](https://github.com/ahsanq46)
 
