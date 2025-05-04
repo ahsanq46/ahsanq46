@@ -14,7 +14,7 @@
 
 ### 📫 Connect with me
 - 📧 Email: [qahsan861@gmail.com](mailto:qahsan861@gmail.com)  
-- 💼 Portfolio (Coming Soon)  
+- 💼 Portfolio (https://ahsanq46.github.io/personal-portfolio/)  
 - 🌐 GitHub: [github.com/ahsanq46](https://github.com/ahsanq46)
 
 ---
