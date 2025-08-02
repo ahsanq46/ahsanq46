@@ -1,12 +1,19 @@
 ## Hi there 👋 I'm M Ahsan Zaman
 
-🎓 I'm a Software Engineering student at Aligarh Institute of Technology, currently pursuing a Diploma of Associate Engineering (DAE).  
-💻 I'm also enrolled in a professional certification in Artificial Intelligence, Web 3.0, and Metaverse Technologies.
+🎓 I'm currently pursuing formal education in Software Engineering, building a strong foundation in software development and emerging technologies.
+💻 I'm also enrolled in a professional certification focused on Artificial Intelligence, Web 3.0, and Metaverse Technologies.
+
 
 ### 🚀 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React (basic), Next.js (basic), Tailwind CSS  
-- **Tools:** Git & GitHub, VS Code  
-- **Currently Learning:** Backend Development, API integration, Databases (MySQL)  
+Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+
+Tools & Platforms: Git & GitHub, VS Code, Figma, Vercel, Netlify
+
+Programming Languages: Python (basics), JavaScript, TypeScript
+
+Currently Learning: Backend Development, API Integration, Databases (MySQL, Supabase), Authentication
+
+Exploring: Agentic AI, LangChain, OpenAI API, AI-driven applications  
 
 ### 🌱 Projects & Practice
 - Building responsive portfolio websites and frontend projects using modern frameworks.
