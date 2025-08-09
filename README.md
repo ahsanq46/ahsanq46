@@ -17,7 +17,7 @@
 ### 📫 Connect with me
 - 📧 Email: [qahsan861@gmail.com](mailto:qahsan861@gmail.com)  
 - 💼 Portfolio: [https://ahsanq46.github.io/personal-portfolio/](https://ahsanq46.github.io/personal-portfolio/)  
-- 🌐 GitHub: [github.com/ahsanq46](https://github.com/ahsanq46)
+- 🔗 LinkedIn: [https://www.linkedin.com/in/ahsan-qureshi-987a99365/](https://www.linkedin.com/in/ahsan-qureshi-987a99365/)
 
 ---
 
