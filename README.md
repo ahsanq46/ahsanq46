@@ -5,15 +5,15 @@
 
 
 ### 🚀 Tech Stack
-  • Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+   •  Frontend: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS
 
-  • Tools & Platforms: Git & GitHub, VS Code, Figma, Vercel, Netlify
+   •  Tools & Platforms: Git & GitHub, VS Code, Figma, Vercel, Netlify
 
-  • Programming Languages: Python, JavaScript, TypeScript
+   •  Programming Languages: Python, JavaScript, TypeScript
 
-  • Currently Learning: Backend Development, API Integration, Databases (MySQL, Supabase), Authentication
+   •  Currently Learning: Backend Development, API Integration, Databases (MySQL, Supabase), Authentication
 
-  • Exploring: Agentic AI, LangChain, OpenAI API, AI-driven applications
+   •  Exploring: Agentic AI, LangChain, OpenAI API, AI-driven applications
 
 ### 🌱 Projects & Practice
 - Building responsive portfolio websites and frontend projects using modern frameworks.
